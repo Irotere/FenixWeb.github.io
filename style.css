@@ -1,0 +1,11 @@
+.fenix p{
+    font-size: 15px;
+}
+.fenix{
+    max-width: 600px;
+    margin: 90px auto 0px;
+}
+.fenix h4{
+    text-align: center;
+    font-size: 40px;
+}
